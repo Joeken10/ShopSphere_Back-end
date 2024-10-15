@@ -7,9 +7,11 @@ click==8.1.7
 decorator==5.1.1
 distlib==0.3.8
 executing==2.0.1
+Faker==30.3.0
 filelock==3.14.0
 Flask==3.0.3
 Flask-Cors==5.0.0
+Flask-Migrate==4.0.7
 Flask-SQLAlchemy==3.1.1
 greenlet==3.1.0
 importlib_metadata==8.5.0
@@ -28,9 +30,11 @@ pickleshare==0.7.5
 pipenv==2024.0.0
 platformdirs==4.2.2
 prompt_toolkit==3.0.47
+psycopg2-binary==2.9.9
 ptyprocess==0.7.0
 pure_eval==0.2.3
 Pygments==2.18.0
+python-dateutil==2.9.0.post0
 six==1.16.0
 SQLAlchemy==2.0.34
 stack-data==0.6.3
